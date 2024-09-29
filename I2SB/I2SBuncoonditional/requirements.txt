@@ -1,0 +1,31 @@
+numpy
+scipy
+termcolor
+easydict
+ipdb
+torch==1.12.0
+torchvision==0.13
+tqdm
+scikit-learn
+imageio
+matplotlib
+tensorboard
+torchmetrics==0.9.3
+prefetch_generator
+colored-traceback
+torch-ema
+gdown==4.6.0
+clean-fid==0.1.35
+rich
+lmdb
+wandb
+natsort
+timm
+
+#conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cpuonly -c pytorch
+#conda install -c conda-forge pytorch==1.12.0 torchvision==0.13.0
+
+# i need access to:
+Kevin om c01
+kevin github copy
+kevin wandb - logs
